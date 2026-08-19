@@ -13,7 +13,7 @@ TinyIVF - это векторный индекс, в основе которог
 ## Установка
 
 ```bash
-pip install git+https://github.com/username/tinyivf.git
+pip install git+https://github.com/Sasha201089/tiny_ivf.git
 ```
 
 ## Использование
