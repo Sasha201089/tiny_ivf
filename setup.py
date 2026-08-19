@@ -20,8 +20,7 @@ setup(
     install_requires=[
         "numpy",
         "faiss-cpu",
-        "scipy",
-        "pickle"
+        "scipy"
     ],
     include_package_data=True,
     zip_safe=False,
