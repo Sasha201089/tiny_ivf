@@ -21,7 +21,7 @@ pip install git+https://github.com/Sasha201089/tiny_ivf.git
 ```python
 from tinyivf import TinyIVF
 
-index = RAMIndex(dim=784, n_clusters=100, nprobe=3)
+index = TinyIVF(dim=784, n_clusters=100, nprobe=3)
 index.train(your_vectors)
 index.add_items(your_vectors)
 
